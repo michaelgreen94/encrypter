@@ -1,0 +1,11 @@
+C:\source\codeworks\encrypt\bin\Debug\netcoreapp2.1\encrypt.deps.json
+C:\source\codeworks\encrypt\bin\Debug\netcoreapp2.1\encrypt.runtimeconfig.json
+C:\source\codeworks\encrypt\bin\Debug\netcoreapp2.1\encrypt.runtimeconfig.dev.json
+C:\source\codeworks\encrypt\bin\Debug\netcoreapp2.1\encrypt.dll
+C:\source\codeworks\encrypt\bin\Debug\netcoreapp2.1\encrypt.pdb
+C:\source\codeworks\encrypt\obj\Debug\netcoreapp2.1\encrypt.csprojAssemblyReference.cache
+C:\source\codeworks\encrypt\obj\Debug\netcoreapp2.1\encrypt.csproj.CoreCompileInputs.cache
+C:\source\codeworks\encrypt\obj\Debug\netcoreapp2.1\encrypt.AssemblyInfoInputs.cache
+C:\source\codeworks\encrypt\obj\Debug\netcoreapp2.1\encrypt.AssemblyInfo.cs
+C:\source\codeworks\encrypt\obj\Debug\netcoreapp2.1\encrypt.dll
+C:\source\codeworks\encrypt\obj\Debug\netcoreapp2.1\encrypt.pdb
